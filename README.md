@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://akshatdubey.vercel.app/">
-    <img src="https://raw.githubusercontent.com/DubeyAkshat/DubeyAkshat/master/intro.gif" alt="👋Hello, World!, I'm Akshat Dubey" title="👋Hello, World!, I'm Akshat Dubey"/>
+    <img src="https://raw.githubusercontent.com/DubeyAkshat/DubeyAkshat/master/intro.gif" alt="👋Hello, World! I'm Akshat Dubey" title="👋Hello, World!, I'm Akshat Dubey"/>
   </a>
 </p>
 
