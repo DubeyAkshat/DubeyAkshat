@@ -12,7 +12,7 @@
   
 - 📫 How to reach me **iakshatdubey@gmail.com**
   
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FVlG0t_919-qBuxyBhqkyTOgPVWyO4cC/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/154dHhvRdi3TP9G7A243sNE-FmHH_ZFbj/view)
 
 - ⚡ Fun fact, **I rock at full-stack development but get a kick out of bossing server apps and deployments! 🚀**
 
